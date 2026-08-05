@@ -42,4 +42,8 @@ This interactive dashboard provides a complete analysis of Brazilian e-commerce 
 This project helped me strengthen my skills in data visualization, e-commerce analytics, KPI tracking, and transforming raw business data into meaningful insights using Power BI.
 <img width="1302" height="751" alt="Screenshot 2026-08-05 153913" src="https://github.com/user-attachments/assets/8a018094-bcff-4f4c-9f27-13ceaaec0cd0" />
 
+https://github.com/user-attachments/assets/ec2572f8-d7e0-4bb3-b2a4-31e059401ba4
+
+
+
 
