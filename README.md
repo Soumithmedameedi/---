@@ -1,4 +1,6 @@
-# ---This interactive dashboard provides a complete analysis of Brazilian e-commerce operations, helping uncover insights related to orders, customers, products, payments, delivery performance, and seller distribution.
+# ---  𝗕𝗿𝗮𝘇𝗶𝗹𝗶𝗮𝗻 𝗘-𝗖𝗼𝗺𝗺𝗲𝗿𝗰𝗲 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱 📊
+
+This interactive dashboard provides a complete analysis of Brazilian e-commerce operations, helping uncover insights related to orders, customers, products, payments, delivery performance, and seller distribution.
 
 🔑 KPIs Tracked
 
